@@ -1,0 +1,12 @@
+C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\bin\Debug\net6.0\Circit.Github.oAuthHttpClient.deps.json
+C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\bin\Debug\net6.0\Circit.Github.oAuthHttpClient.dll
+C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\bin\Debug\net6.0\Circit.Github.oAuthHttpClient.pdb
+C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.oAuthHttpClient.csproj.AssemblyReference.cache
+C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.oAuthHttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.oAuthHttpClient.AssemblyInfoInputs.cache
+C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.oAuthHttpClient.AssemblyInfo.cs
+C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.oAuthHttpClient.csproj.CoreCompileInputs.cache
+C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.oAuthHttpClient.dll
+C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\refint\Circit.Github.oAuthHttpClient.dll
+C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.oAuthHttpClient.pdb
+C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\ref\Circit.Github.oAuthHttpClient.dll

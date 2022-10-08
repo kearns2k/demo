@@ -1,0 +1,17 @@
+﻿@page
+@model CallbackModel
+@{
+    ViewData["Title"] = "Callback page";
+}
+
+<div class="text-center">
+    <h1 class="display-4 margin-top-50">
+        API Developer Role Challenge
+    </h1>
+    <div class="sp20" />
+    <strong>Name:</strong> @Model.Name    <br />
+    <strong>Location:</strong> @Model.Location   <br />
+    
+    <img src="@Model.AvatarUri" />
+
+</div>
