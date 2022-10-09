@@ -10,7 +10,7 @@ namespace Circit.Web.Services
 /// </returns>
     public class RandomTokenService : IRandomTokenService
     {
-        public async Task<string> GenerateRandomTokenAsync()
+        public string GenerateRandomTokenAsync()
         {
             return Guid.NewGuid() + DateTime.Now.ToString();
         }

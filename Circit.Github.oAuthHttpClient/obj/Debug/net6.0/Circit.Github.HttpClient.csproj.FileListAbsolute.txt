@@ -10,3 +10,15 @@ C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.
 C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\refint\Circit.Github.HttpClient.dll
 C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.HttpClient.pdb
 C:\Code\Circit.Web\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\ref\Circit.Github.HttpClient.dll
+C:\Code\Demo\Circit.Github.oAuthHttpClient\bin\Debug\net6.0\Circit.Github.HttpClient.deps.json
+C:\Code\Demo\Circit.Github.oAuthHttpClient\bin\Debug\net6.0\Circit.Github.HttpClient.dll
+C:\Code\Demo\Circit.Github.oAuthHttpClient\bin\Debug\net6.0\Circit.Github.HttpClient.pdb
+C:\Code\Demo\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.HttpClient.csproj.AssemblyReference.cache
+C:\Code\Demo\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Demo\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.HttpClient.AssemblyInfoInputs.cache
+C:\Code\Demo\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.HttpClient.AssemblyInfo.cs
+C:\Code\Demo\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.HttpClient.csproj.CoreCompileInputs.cache
+C:\Code\Demo\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.HttpClient.dll
+C:\Code\Demo\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\refint\Circit.Github.HttpClient.dll
+C:\Code\Demo\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\Circit.Github.HttpClient.pdb
+C:\Code\Demo\Circit.Github.oAuthHttpClient\obj\Debug\net6.0\ref\Circit.Github.HttpClient.dll

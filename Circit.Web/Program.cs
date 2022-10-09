@@ -12,8 +12,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 
 //DI
-builder.Services.AddTransient<IOAuth, OAuth>();
-builder.Services.AddTransient<IGithubApi, GithubApi>();
+builder.Services.AddSingleton<IOAuth, OAuth>();
+builder.Services.AddSingleton<IGithubApi, GithubApi>();
 builder.Services.AddTransient<IRandomTokenService, RandomTokenService>();
 
 builder.Services.AddOptions();

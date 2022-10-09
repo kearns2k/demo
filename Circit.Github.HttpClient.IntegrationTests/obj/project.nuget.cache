@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "glV0X+HIb9VAK0IZ1bmq0Pvs2w5c+PBhfNuIaLZ8lJD1F/9zXSaxIakruKB26GBMzxcBAdKBYW31liguG3L0cw==",
+  "dgSpecHash": "x0FLyt9LADQd7m0DTT0cOezXPvMd3OcCJ7sT0fqcLqE2xAwCJ56lpDAsHBP4l34VxRC0Xjec2quc/KAAy5gQ1A==",
   "success": true,
-  "projectFilePath": "C:\\Code\\Circit.Web\\Circit.Github.HttpClient.IntegrationTests\\Circit.Github.HttpClient.IntegrationTests.csproj",
+  "projectFilePath": "C:\\Code\\Demo\\Circit.Github.HttpClient.IntegrationTests\\Circit.Github.HttpClient.IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patri\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

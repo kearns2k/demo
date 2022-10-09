@@ -10,6 +10,8 @@ namespace Circit.Web.Pages
         private readonly GitHubOAuthSettings _gitHubOAuthSettings;
         private readonly IRandomTokenService _randomTokenService;
 
+        private const string RandomTokenSessionProperty = "RandomToken";
+
         public string GitHubAuthUrl { get; set; }
 
         public IndexModel(IOptions<GitHubOAuthSettings> options,
@@ -19,12 +21,12 @@ namespace Circit.Web.Pages
             _randomTokenService = randomTokenService;
         }
 
-        public async Task OnGetAsync()
+        public void OnGet()
         {
             //Generate token to pass as state & use as an anti-CSRF measure
-            var randomToken = await _randomTokenService.GenerateRandomTokenAsync();
+            var randomToken =  _randomTokenService.GenerateRandomTokenAsync();
                         
-            HttpContext.Session.SetString("RandomToken", randomToken);
+            HttpContext.Session.SetString(RandomTokenSessionProperty, randomToken);
            
             GitHubAuthUrl = $"{_gitHubOAuthSettings.AuthUri}?client_id={_gitHubOAuthSettings.ClientId}&response_type=code&redirect_uri={_gitHubOAuthSettings.RedirectUri}&state={randomToken}"; 
         }

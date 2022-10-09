@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iA1TpjWc6Di4ZYEEWvJ/3RMsiKkChKh4QNSQn6uYSLTltjYkgyHxUQb+ZUG+WVjALiNkq6lK1OARyBX+OQVkhw==",
+  "dgSpecHash": "ZG9CccpxYSKcNBpq6+4ch3D1oR0nUHTvvDL/iQp4m13lBIxqXdZ8cu7VEWXo8lZuYp4t1USPVKDN+xZt7mX9mg==",
   "success": true,
-  "projectFilePath": "C:\\Code\\Circit.Web\\Circit.Web.UnitTests\\Circit.Web.UnitTests.csproj",
+  "projectFilePath": "C:\\Code\\Demo\\Circit.Web.UnitTests\\Circit.Web.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patri\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

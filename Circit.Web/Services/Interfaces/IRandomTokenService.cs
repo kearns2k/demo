@@ -2,6 +2,6 @@
 {
     public interface IRandomTokenService
     {
-        Task<string> GenerateRandomTokenAsync();
+        string GenerateRandomTokenAsync();
     }
 }

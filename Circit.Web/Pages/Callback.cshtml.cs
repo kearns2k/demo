@@ -14,6 +14,10 @@ namespace Circit.Web.Pages
         private readonly GitHubOAuthSettings _gitHubOAuthSettings;
         private readonly ILogger<CallbackModel> _logger;
 
+        private const string CodeQueryStringProperty = "code";
+        private const string StateQueryStringProperty = "state";
+        private const string RandomTokenSessionProperty = "RandomToken";
+        private const string CsrfMessage = "Anti-CSRF token invalid - potential attack";
 
         public string Name { get; set; }
         public string Location { get; set; }
@@ -38,7 +42,7 @@ namespace Circit.Web.Pages
             {
                 ClientId = _gitHubOAuthSettings.ClientId,
                 ClientSecret = _gitHubOAuthSettings.ClientSecret,
-                Code = HttpContext.Request.Query["code"].ToString(),
+                Code = HttpContext.Request.Query[CodeQueryStringProperty].ToString(),
                 RedirectUri = _gitHubOAuthSettings.RedirectUri
             };
 
@@ -52,11 +56,9 @@ namespace Circit.Web.Pages
         }
 
         private void ValidateAntiCSRFToken()
-        {
-            const string CsrfMessage = "Anti-CSRF token invalid - potential attack";
-
-            var randomToken = HttpContext.Session.GetString("RandomToken");
-            var state = HttpContext.Request.Query["state"].ToString();
+        {        
+            var randomToken = HttpContext.Session.GetString(RandomTokenSessionProperty);
+            var state = HttpContext.Request.Query[StateQueryStringProperty].ToString();
 
             if (randomToken != state)
             {

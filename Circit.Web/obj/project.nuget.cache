@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MNHOmLkYFtx1FvW4J3QaYmnv6HmHg+0E+xrdnkmRuuzduMU473D5ytoxkpHoYiZh8UEnV6cn8s6riMvImTvN1Q==",
+  "dgSpecHash": "xGfELm2UK7qAIwrRmLeqsp1k3Y4mGhvxdf6qHZu5CttlQ905/4fjcOod7+hTtBq6wZdXFi6Dp0tv6NPV9BxurA==",
   "success": true,
-  "projectFilePath": "C:\\Code\\Circit.Web\\Circit.Web\\Circit.Web.csproj",
+  "projectFilePath": "C:\\Code\\Demo\\Circit.Web\\Circit.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

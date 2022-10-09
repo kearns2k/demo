@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Circit.Web\\Circit.Web\\Circit.Web.csproj": {}
+    "C:\\Code\\Demo\\Circit.Web\\Circit.Web.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Circit.Web\\Circit.Github.oAuthHttpClient\\Circit.Github.HttpClient.csproj": {
+    "C:\\Code\\Demo\\Circit.Github.oAuthHttpClient\\Circit.Github.HttpClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Circit.Web\\Circit.Github.oAuthHttpClient\\Circit.Github.HttpClient.csproj",
+        "projectUniqueName": "C:\\Code\\Demo\\Circit.Github.oAuthHttpClient\\Circit.Github.HttpClient.csproj",
         "projectName": "Circit.Github.HttpClient",
-        "projectPath": "C:\\Code\\Circit.Web\\Circit.Github.oAuthHttpClient\\Circit.Github.HttpClient.csproj",
+        "projectPath": "C:\\Code\\Demo\\Circit.Github.oAuthHttpClient\\Circit.Github.HttpClient.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Circit.Web\\Circit.Github.oAuthHttpClient\\obj\\",
+        "outputPath": "C:\\Code\\Demo\\Circit.Github.oAuthHttpClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Code\\Circit.Web\\Circit.Web\\Circit.Web.csproj": {
+    "C:\\Code\\Demo\\Circit.Web\\Circit.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Circit.Web\\Circit.Web\\Circit.Web.csproj",
+        "projectUniqueName": "C:\\Code\\Demo\\Circit.Web\\Circit.Web.csproj",
         "projectName": "Circit.Web",
-        "projectPath": "C:\\Code\\Circit.Web\\Circit.Web\\Circit.Web.csproj",
+        "projectPath": "C:\\Code\\Demo\\Circit.Web\\Circit.Web.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Circit.Web\\Circit.Web\\obj\\",
+        "outputPath": "C:\\Code\\Demo\\Circit.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,8 +103,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Code\\Circit.Web\\Circit.Github.oAuthHttpClient\\Circit.Github.HttpClient.csproj": {
-                "projectPath": "C:\\Code\\Circit.Web\\Circit.Github.oAuthHttpClient\\Circit.Github.HttpClient.csproj"
+              "C:\\Code\\Demo\\Circit.Github.oAuthHttpClient\\Circit.Github.HttpClient.csproj": {
+                "projectPath": "C:\\Code\\Demo\\Circit.Github.oAuthHttpClient\\Circit.Github.HttpClient.csproj"
               }
             }
           }
